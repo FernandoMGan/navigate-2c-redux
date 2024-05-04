@@ -1,0 +1,27 @@
+.navLinks{
+    border: 1px solid green;
+    border-radius: 5px;
+    color: green;
+    margin: 0px 1rem;
+    font-size: large;
+    padding: 0.5rem 1rem;
+}
+.myForm{
+    border: 1px solid blue;
+    border-radius: 5px;
+    padding: 2rem 4rem 4rem;
+    margin: 2rem;
+}
+.input{
+    margin-right: 2rem;
+}
+.bpobtn {
+    border: 1px solid green;
+    border-radius: 5px;
+    color: green;
+    margin-top: 1rem;
+}
+.bpobtn:hover {
+    border: 2px solid violet;
+    color: blue;
+}
